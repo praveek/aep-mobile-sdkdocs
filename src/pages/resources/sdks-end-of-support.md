@@ -2,6 +2,10 @@
 
 ## End of support for Adobe Experience Platform 1.x SDKs for Android
 
+**Updated On:July 8, 2024**
+
+As of June 30, 2024, Adobe has deprecated support for the Adobe Experience Platform 1.x SDKs for Android. Support will continue for Experience Platform 2.x SDKs for Android, but upgrading to the 3.x version is strongly recommended to access new features. The Adobe Experience Platform 3.x SDKs for Android were released on April 4th, 2024. Please consult the migration guide for instructions on upgrading to the latest version.
+
 **Published On: January 5, 2024**
 
 As of June 30, 2024, Adobe will officially deprecate support for the Adobe Experience Platform 1.x SDKs for Android. While the SDK will continue to function post-deprecation, it is crucial to be aware of the following changes:
